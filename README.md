@@ -55,5 +55,6 @@ http://localhost:5000
 ```
 
 
-# Contributions
-### Contributions are welcome Feel free to fork and make your own modifications.
+## Contributions
+#### Contributions are welcome 
+#### Feel free to fork and make your own modifications.
